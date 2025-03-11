@@ -1,2 +1,3 @@
-# CS696_llm
+# CS696: Applied Large Language Models
+
  
